@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3131c5a-e454-4c77-93e6-8964534cfa39" name="Default" comment="Finshed the project and uploaded the Readme file in a folder. It has all the answers included in it.">
+    <list default="true" id="e3131c5a-e454-4c77-93e6-8964534cfa39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/test/cs2-lab5-performance-java/cs271/lab/list/TestIterator.class" afterPath="$PROJECT_DIR$/classes/test/cs2-lab5-performance-java/cs271/lab/list/TestIterator.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/test/cs2-lab5-performance-java/cs271/lab/list/TestList.class" afterPath="$PROJECT_DIR$/classes/test/cs2-lab5-performance-java/cs271/lab/list/TestList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestIterator.java" afterPath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestList.java" afterPath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestPerformance.java" afterPath="$PROJECT_DIR$/src/test/java/cs271/lab/list/TestPerformance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cs2-lab5-listperformance-java.iml" afterPath="$PROJECT_DIR$/.idea/cs2-lab5-listperformance-java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cs2-lab5-listperformance-java.iws" />
@@ -649,7 +644,13 @@
       <option name="project" value="LOCAL" />
       <updated>1422804167869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finshed the project and uploaded the Readme file in a folder. It has all the answers included in it.">
+      <created>1455135679108</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1455135679108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
