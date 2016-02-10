@@ -16,6 +16,8 @@ public class TestPerformance {
 
 	private final int REPS = 1000000;
 
+	//long start_time = System.currentTimeMillis();
+
 	private List<Integer> arrayList;
 
 	private List<Integer> linkedList;
